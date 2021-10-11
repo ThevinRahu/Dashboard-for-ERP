@@ -1,6 +1,7 @@
 # Dashboard-for-ERP
 Dashboard with charts for an ERP
 How to Run:
+
 1-Start Apache and MySQL from XAMPP Control Panel
 
 2-Download SQL folders and import to phpmyadmin "project" database
